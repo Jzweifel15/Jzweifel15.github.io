@@ -1,0 +1,24 @@
+---
+layout: post
+title:      "JavaScript/Rails Project"
+date:       2021-02-04 07:21:12 +0000
+permalink:  javascript_rails_project
+---
+
+Hello Everyone, 
+
+It felt like just last week we were finishing our Rails portfolio projects and wrapping up the third module of the cohort. Now, we're already in project week for the fourth module (JavaScript) and getting ready to enter the two-weeks of project assessments at the time i'm writing this blog post. 
+
+I sincerely enjoyed the JavaScript module. I had already heard about JavaScript being a very important language to understand when it comes working on the front-end of web applications, and before Flatiron, I had always intended to try to take it up on my own time to learn JavaScript, but never really got around to it. I primarily thought JavaScript was used for animations and other little things that sometimes wasn't always necessary to have in every website or that could easily be done using CSS keyframes. However, after going through this fourth module, I was completely wrong. There is much more that can go on behind the scenes if you're wanting to build your own full-stack web application.
+
+Going through the readings and completing the labs is always helpful. However, I also did some other research of my own on JavaScript and tried to work with as much as I could, incorporating my own little test projects to work through its quirks and tricks because I know just how important JavaScript is and anyone reading this, I would highly recommend doing your own research on JavaScript as well. Not saying the lessons weren't helpful. Without the lessons, I would not have known what to look up and research. I just wanted to take everything the readings and labs had to offer in this fourth module and go one step further by doing a little extra research on each topic that I was currently on. 
+
+When it comes to this project, the requirements were very straightforward and I had no questions to ask. Once I had an idea, I went to the drawing board and started building out the project. For this project, you're definitely going to spend more time working on your front-end than you will with the back-end. The back-end portion was pretty straightforward and the only time I really spent in the back-end was by changing up my database making sure I had all the tables and
+columns that I wanted for my project and ensuring I had the proper seed data to work with. Originally, I was going to pull from a third-party API, but had really no luck finding any end-points to pull from, so I just created some of my own dummy data to work with. I didn't want to spend too much time trying to find something that really didn't matter all too much; I wanted to ensure I actually got the project working, and if I had time later, could implement this functionality instead of saturating the database with data that it doesn't really need. 
+
+Even after doing my own research and little test projects with JavaScript, this project gave me quite a bit of trouble; but, I think that's typically to be expected in the field of software development. If anyone goes into this career not expecting there to be headaches, then I hate to be a burden, but you're in the wrong career field. Anyways, the main problem I was having wasn't pulling the data from the back-end; that was actually the easiest part of the project, but was
+actually getting little, certain functionality (that I wanted to be precise) to work. I think I spent a whole two days trying to figure out what I was doing wrong, but didn't get anywhere. I was able to get the functionality "half," working, and by "half," I mean that it did what I wanted it to do up to a certain point, but once that point was reached, it was downhill from there. It was a small little bug that didn't necessarily crash the project or make the project not work properly, but it was just a little qwirk that I didn't like because, I might be somewhat of a perfectionist, and just wanted my project to be "perfect," in my eyes. 
+
+All-in-all, I still can't believe that we're already at the end of the fourth module, which is the second-to-last module of the cohort!!! Once this module is officially over, it'll be a new year (at the time this blog is being made, we are 2-weeks out from 2021) and we'll have a little less than two-months of my cohort. I must say, I learned a lot while going through this cohort with Flatiron. Not only have I learned the ins-and-outs of being a full-stack web developer, but I also learned how to be a software engineer. I leanred how to also teach myself; that way, if I ever wanted to pursue a different path in this field (rather than web development), I know how to teach myself and what I should do in order to sufficiently and efficiently study and research. 
+
+With that being said, we're in the end-game now...
